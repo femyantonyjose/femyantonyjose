@@ -1,3 +1,6 @@
+
+![dddp](https://github.com/user-attachments/assets/78384850-4e0e-43f5-8ab0-4655bbd91667)
+
 - 👋 Hi, I’m @femyantonyjose,just another engineering student in the feild of computer science
 - 👀  Currently I’m interested in learning how to develop projects based on finances based on portfolio diversification stratergies and budget forecasting for startups,healthcare based on pattern imaging analysis !!
 - Updating skills or skill tracking to help students and other people working in the computer field.
